@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+src/data/local/datasets
+datasets
+*.pyc
+*.ipynb
+shapenetcore_partanno_segmentation_benchmark_v0/
+*.so
+.idea*
+cls/
+seg/
+*.egg-info/
+src/experiments/results
+src/explanation_methods/samples
+_misc_experiments/
