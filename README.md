@@ -1,3 +1,8 @@
+## TODOs
+- [ ] Add results to README
+- [ ] Refer to datasets
+- [ ] Include parts of experiment history
+
 # Discovering highly contributing geometric features of CAD models for the verification of technical requirements
 
 This repository contains the related code for my master thesis and contains all relevant experiments to reproduce the results.
